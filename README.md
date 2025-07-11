@@ -173,8 +173,8 @@ Aqui você pode adicionar a categoria do aplicativo, algumas tags, informações
 
 <div align="center">
         <img width="100%" src="./img/Imagem24.png">
-  div src="./img/Imagem25.png">
-</center>
+        <img src="./img/Imagem25.png">
+</div>
 
 ### Configurar a página "Detalhes do app"
 Detalhes do app é onde você define as informações públicas na Play Store, como ícone, nome, descrição e banner.
@@ -210,13 +210,13 @@ Modelo do Canva que atende a todos os tamanhos: [Link](https://www.canva.com/des
 
 <div align="center">
         <img width="100%" src="./img/Imagem28.png">
-  div src="./img/Imagem29.png">
-</center>
+        <img src="./img/Imagem29.png">
+</div>
 <br>
 
 ## Criar e publicar uma versão
 Após todas as etapas estarem concluídas, a publicação será liberada, sendo necessário aguardar 14 dias com 12 pessoas testando o app diariamente.
 
-</center>
+<div align="center">
         <img width="100%" src="./img/Imagem30.png">
-</center>
+</div>
