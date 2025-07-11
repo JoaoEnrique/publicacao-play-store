@@ -1,9 +1,15 @@
 # Manual de como publicar na Google Play Console
 Documentação criada para os alunos da Fatec Zona Leste publicarem seus aplicativos 
 
-Documentação para a Apple Store: https://github.com/JoaoEnrique/publicacao-apple-store
+<img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Documentação para a  Apple Store:** https://github.com/JoaoEnrique/publicacao-apple-store
 
-Link da Google Play Console, onde os apps são gerenciados: https://play.google.com/console/u/0/developers
+## 🔗 **Links**
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> **Google Play Console (onde os apps são gerenciados:)**: https://play.google.com/console/u/0/developers
+
+## **Modelos de imagens**
+- Ícone (PNG ou JPEG de até 1 MB e 512 × 512px) - [Modelo no Canva](https://www.canva.com/design/DAGdfTpM8ek/L1qs4LzIVaPMOQKNRFU2nA/edit?utm_content=DAGdfTpM8ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Recurso Gráfico - banner do aplicativo (PNG ou JPEG de até 15 MB e 1024px × 500px) - [Modelo no Canva](https://www.canva.com/design/DAGL3T90bGo/7ql7RXW6mDOEtkugVoBIEA/edit?utm_content=DAGL3T90bGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Tela do Aplicativo - [Modelo no Canva](https://www.canva.com/design/DAGs0blP70w/CngI6ARr-KGa79a2WDyV9Q/edit?utm_content=DAGs0blP70w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Tela inicial. 
 Mostra todos os aplicativos aos quais você tem acesso:
@@ -143,14 +149,14 @@ Crie uma breve descrição e uma descrição longa para seu aplicativo
 
 Adicione um ícone e banner para aplicativo. Há um link de um modelo no Canva com o tamanho. É possível adicionar um link do YouTube
 
-Ícone (PNG ou JPEG de até 1 MB e 512 × 512px) [Modelo do Canva](https://www.canva.com/design/DAGdfTpM8ek/L1qs4LzIVaPMOQKNRFU2nA/edit?utm_content=DAGdfTpM8ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Ícone (PNG ou JPEG de até 1 MB e 512 × 512px) [Modelo no Canva](https://www.canva.com/design/DAGdfTpM8ek/L1qs4LzIVaPMOQKNRFU2nA/edit?utm_content=DAGdfTpM8ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Recurso Gráfico - Banner (PNG ou JPEG de até 15 MB e 1024px × 500px) [Modelo do Canva](https://www.canva.com/design/DAGL3T90bGo/7ql7RXW6mDOEtkugVoBIEA/edit?utm_content=DAGL3T90bGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Recurso Gráfico - Banner (PNG ou JPEG de até 15 MB e 1024px × 500px) [Modelo no Canva](https://www.canva.com/design/DAGL3T90bGo/7ql7RXW6mDOEtkugVoBIEA/edit?utm_content=DAGL3T90bGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img width="100%" src="./img/Imagem28.png?v=1">
 
 É necessário adicionar de 2 a 8 capturas de tela de smartphone. No mínimo 1 de tela do tablet de 7 pol e 1 de tela de tablet de 10".
-Modelo do Canva que atende a todos os tamanhos: [Link](https://www.canva.com/design/DAGs0blP70w/CngI6ARr-KGa79a2WDyV9Q/edit?utm_content=DAGs0blP70w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Modelo no Canva que atende a todos os tamanhos: [Link](https://www.canva.com/design/DAGs0blP70w/CngI6ARr-KGa79a2WDyV9Q/edit?utm_content=DAGs0blP70w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img width="100%" src="./img/Imagem29.png?v=1">
 
