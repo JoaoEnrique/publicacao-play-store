@@ -3,6 +3,8 @@ Documentação criada para os alunos da Fatec Zona Leste publicarem seus aplicat
 
 Documentação para a Apple Store: https://github.com/JoaoEnrique/publicacao-apple-store
 
+Link da Google Play Console, onde os apps são gerenciados: https://play.google.com/console/u/0/developers
+
 ### Tela inicial. 
 Mostra todos os aplicativos aos quais você tem acesso:
 [Google Play Console](https://play.google.com/console/u/0/developers)
