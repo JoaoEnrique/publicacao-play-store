@@ -43,6 +43,7 @@ Por fim, basta avançar para visualizar um resumo geral e possíveis alertas de 
 
 # Configurar o app
 Nesta etapa, você deverá fornecer todas as informações necessárias sobre o aplicativo. Elas não impedem a publicação do app, exceto se estiverem incorretas ou inconsistentes.
+
 <img width="100%" src="./img/Imagem6.png?v=1">
 
 ### Política de Privacidade
