@@ -11,7 +11,7 @@ Documentação criada para os alunos da Fatec Zona Leste publicarem seus aplicat
 - Recurso Gráfico - banner do aplicativo (PNG ou JPEG de até 15 MB e 1024px × 500px) - [Modelo no Canva](https://www.canva.com/design/DAGL3T90bGo/7ql7RXW6mDOEtkugVoBIEA/edit?utm_content=DAGL3T90bGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Tela do Aplicativo - [Modelo no Canva](https://www.canva.com/design/DAGs0blP70w/CngI6ARr-KGa79a2WDyV9Q/edit?utm_content=DAGs0blP70w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-### Tela inicial. 
+## Tela inicial. 
 Mostra todos os aplicativos aos quais você tem acesso:
 [Google Play Console](https://play.google.com/console/u/0/developers)
 
@@ -168,7 +168,7 @@ Modelo no Canva que atende a todos os tamanhos: [Link](https://www.canva.com/des
 <br>
 
 
-## Criar e publicar uma versão
+# Criar e publicar uma versão
 Após todas as etapas estarem concluídas, a publicação será liberada, sendo necessário aguardar 14 dias com 12 pessoas testando o app diariamente.
 
 <img width="100%" src="./img/Imagem33.png">
