@@ -173,7 +173,7 @@ Aqui você pode adicionar a categoria do aplicativo, algumas tags, informações
 
 <div align="center">
         <img width="100%" src="./img/Imagem24.png">
-        <img src="./img/Imagem25.png">
+        <img width="100%" src="./img/Imagem25.png">
 </div>
 
 ### Configurar a página "Detalhes do app"
@@ -210,7 +210,7 @@ Modelo do Canva que atende a todos os tamanhos: [Link](https://www.canva.com/des
 
 <div align="center">
         <img width="100%" src="./img/Imagem28.png">
-        <img src="./img/Imagem29.png">
+        <img width="100%" src="./img/Imagem29.png">
 </div>
 <br>
 
