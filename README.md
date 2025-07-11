@@ -1,4 +1,4 @@
-# Manual de como publicar na Google Play Console
+# 📖 Manual de como publicar na Google Play Console
 Documentação criada para os alunos da Fatec Zona Leste publicarem seus aplicativos 
 
 <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Documentação para a  Apple Store:** https://github.com/JoaoEnrique/publicacao-apple-store
