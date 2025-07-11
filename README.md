@@ -11,7 +11,6 @@ Ao selecionar o aplicativo, é apresentado a tela de configuração do app que c
 
 <img src="./img/Imagem2.png">
 <br>
-<br>
 
 # Etapas obrigatórias
 - Começar a testar agora 
@@ -20,14 +19,11 @@ Ao selecionar o aplicativo, é apresentado a tela de configuração do app que c
 
 Começar a testar agora
 Os aplicativos devem passar por um teste realizado por você mesmo, com duração de 14 dias e com 12 pessoas. Por isso a primeira fase é adicionar uma lista com o e-mail dos testadores.
-<br>
-<br>
 
 ## Começar a testar agora
 Os aplicativos devem passar por um teste realizado por você mesmo, com duração de 14 dias e com 12 pessoas. Por isso a primeira fase é adicionar uma lista com o e-mail dos testadores.
 
 <img src="./img/Imagem3.png">
-<br>
 <br>
 
 ### Criar uma nova versão
@@ -35,16 +31,12 @@ A segunda fase consiste em criar uma nova versão do aplicativo, contendo o arqu
 
 <img src="./img/Imagem3.png">
 <br>
-<br>
 
 ### Visualizar e confirmar a versão
 Por fim, basta avançar para visualizar um resumo geral e possíveis alertas de erro, caso existam. Para facilitar a visualização, expanda as mensagens e corrija os pontos indicados, se necessário.
 
 <img src="./img/Imagem5.png">
 <br>
-<br>
-<br>
-
 
 # Configurar o app
 Nesta etapa, você deverá fornecer todas as informações necessárias sobre o aplicativo. Elas não impedem a publicação do app, exceto se estiverem incorretas ou inconsistentes.
@@ -57,31 +49,26 @@ Na primeira opção, em 'Política de Privacidade', insira um link válido para 
 
 <img src="./img/Imagem7.png">
 <br>
-<br>
 
 ### Acesso de apps
 Nessa opção você informa se seu aplicativo é livre ou tem alguma funcionalidade restrita por meio de login e senha. Caso não tenha login, basta marcar a primeira opção e salvar.
 
 <img src="./img/Imagem8.png">
 <br>
-<br>
 
 Se seu aplicativo possuir sistema de login, é necessário informar um usuário e senha de teste e informações para a Play Store acessar e realizar testes
 
 <img src="./img/Imagem9.png">
-<br>
 <br>
 
 Ao clicar em “Adicionar instrução”, você deverá informar o nome da instrução, login e senha, e, se necessário, detalhes adicionais sobre como realizar o login.
 
 <img src="./img/Imagem10.png">
 <br>
-<br>
 
 Por fim, basta salvar.
 
 <img src="./img/Imagem11.png">
-<br>
 <br>
 
 ### Anúncios
@@ -89,25 +76,21 @@ Na opção de anúncios, basta responder se seu aplicativo possui anúncios
 
 <img src="./img/Imagem12.png">
 <br>
-<br>
 
 ### Classificações de conteúdo
 A fase de “Classificações de conteúdo” é um formulário sobre o conteúdo do seu aplicativo e com base nas respostas a Play Store define a classificação de idade.
 
 <img src="./img/Imagem13.png">
 <br>
-<br>
 
 Adicione um email, informe a categoria do seu app e aceite os termos
 
 <img src="./img/Imagem14.png">
 <br>
-<br>
 
 Basta responder às perguntas conforme o conteúdo do seu aplicativo e visualizar um resumo com as informações para confirmação.
 
 <img src="./img/Imagem15.png">
-<br>
 <br>
 
 ### Segurança dos dados
@@ -115,30 +98,25 @@ Na fase “Segurança dos dados”, você deverá informar quais dados o seu apl
 
 <img src="./img/Imagem16.png">
 <br>
-<br>
 
 Informe se o aplicativo coleta ou compartilha algum dado obrigatório, como email e senha.
 
 <img src="./img/Imagem17.png">
-<br>
 <br>
 
 Se houver dados obrigatórios, é preciso informar se os dados são criptografados por você e quais dados seu aplicativo coleta.
 
 <img src="./img/Imagem18.png">
 <br>
-<br>
 
 Ao marcar pelo menos um dado obrigatório, é preciso também informar um link onde o usuário possa excluir ou solicitar a exclusão da conta. (É possível adicionar o link onde o usuário possa ver seu perfil)
 
 <img src="./img/Imagem19.png">
 <br>
-<br>
 
 Se o seu aplicativo permite que o usuário exclua apenas determinados dados, você pode fornecer um link com essa funcionalidade. No entanto, essa etapa não é obrigatória. Depois de concluído, a opção “próximo” será liberada.
 
 <img src="./img/Imagem20.png">
-<br>
 <br>
 
 ### Apps governamentais
@@ -146,20 +124,17 @@ Basta informar se seu aplicativo foi desenvolvido em nome de um órgão governam
 
 <img src="./img/Imagem21.png">
 <br>
-<br>
 
 ### Recursos financeiros
 Informe se o seu aplicativo possui algum recurso financeiro, como serviços bancários e empréstimos. É possível marcar mais de um. Se não houver, marque a última opção: “Meu app não oferece recursos financeiros”
 
 <img src="./img/Imagem22.png">
 <br>
-<br>
 
 ### Apps de saúde
 Informe se o seu aplicativo possui algum recurso de saúde. É possível marcar mais de um. Se não houver, marque a última opção: “Meu app não tem recursos de saúde”
 
 <img src="./img/Imagem23.png">
-<br>
 <br>
 
 ### Selecionar uma categoria do app e fornecer detalhes de contato
@@ -168,19 +143,16 @@ Aqui você pode adicionar a categoria do aplicativo, algumas tags, informações
 <img src="./img/Imagem24.png">
 <img src="./img/Imagem25.png">
 <br>
-<br>
 
 ### Configurar a página "Detalhes do app"
 Detalhes do app é onde você define as informações públicas na Play Store, como ícone, nome, descrição e banner.
 
 <img src="./img/Imagem26.png">
 <br>
-<br>
 
 Crie uma breve descrição e uma descrição longa para seu aplicativo
 
 <img src="./img/Imagem27.png">
-<br>
 <br>
 
 Adicione um ícone e banner para aplicativo. Há um link de um modelo no Canva com o tamanho. É possível adicionar um link do YouTube
@@ -191,13 +163,11 @@ Banner (PNG ou JPEG de até 15 MB e 1024px × 500px) [Modelo do Canva](https://w
 
 <img src="./img/Imagem28.png">
 <br>
-<br>
 
 É necessário adicionar de 2 a 8 capturas de tela de smartphone. No mínimo 1 de tela do tablet de 7 pol e 1 de tela de tablet de 10".
 Modelo do Canva que atende a todos os tamanhos: [Link](https://www.canva.com/design/DAGs0blP70w/CngI6ARr-KGa79a2WDyV9Q/edit?utm_content=DAGs0blP70w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img src="./img/Imagem29.png">
-<br>
 <br>
 
 É possível adicionar de Chromebook e Android XR, mas não são obrigatórios
@@ -205,11 +175,9 @@ Modelo do Canva que atende a todos os tamanhos: [Link](https://www.canva.com/des
 <img src="./img/Imagem28.png">
 <img src="./img/Imagem29.png">
 <br>
-<br>
 
 ### Criar e publicar uma versão
 Após todas as etapas estarem concluídas, a publicação será liberada, sendo necessário aguardar 14 dias com 12 pessoas testando o app diariamente.
 
 <img src="./img/Imagem30.png">
-<br>
 <br>
