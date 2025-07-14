@@ -37,14 +37,21 @@ Ao selecionar o aplicativo, é apresentado a tela de configuração do app que c
 - Criar e Publicar uma versão
 
 ## Começar a testar agora
-Os aplicativos devem passar por um teste realizado por você mesmo, com duração de 14 dias e com 12 pessoas. Por isso a primeira fase é adicionar uma lista com o e-mail dos testadores, mas não é necessário adicionar a lista nesse momento, podendo seguir para as demais configurações do app.
+Os aplicativos devem passar por um "teste interno" realizado por você mesmo, com duração de 14 dias e com 12 pessoas. Por isso a primeira fase é adicionar uma lista com o e-mail dos testadores, mas não é necessário adicionar a lista nesse momento, podendo seguir para as demais configurações do app.
 
 <img width="100%" src="./img/Imagem3.png?v=1">
 
 ### Criar uma nova versão
-A segunda fase consiste em criar uma nova versão do aplicativo, contendo o arquivo de build (.aab). Nessa etapa, é necessário definir o nome da versão (visível apenas internamente, para fins de controle), adicionar as notas da versão (que serão exibidas publicamente na Play Store) e, por fim, anexar o arquivo .aab.
+A segunda fase consiste em criar uma nova versão do aplicativo (versão de teste interno para a Play Store aprovar a publicação), contendo o arquivo de build (.aab). Nessa etapa, é necessário definir o nome da versão (visível apenas internamente, para fins de controle), adicionar as notas da versão (que serão exibidas publicamente na Play Store) e, por fim, anexar o arquivo .aab.
+
+<img width="100%" src="./img/Imagem37.png?v1">
+<img width="100%" src="./img/Imagem38.png?v1">
 
 <img width="100%" src="./img/Imagem4.png?v1">
+
+Após adicionar a lista de e-mails dos testadores, compartilhe o link para que eles possam baixar o aplicativo
+
+<img width="100%" src="./img/Imagem39.png?v1">
 
 ### Visualizar e confirmar a versão
 Por fim, basta avançar para visualizar um resumo geral e possíveis alertas de erro, caso existam. Para facilitar a visualização, expanda as mensagens e corrija os pontos indicados, se necessário.
@@ -175,6 +182,34 @@ Modelo no Canva que atende a todos os tamanhos: [Link](https://www.canva.com/des
 
 
 # Criar e publicar uma versão
-Após todas as etapas estarem concluídas, a publicação será liberada, sendo necessário aguardar 14 dias com 12 pessoas testando o app diariamente.
+Após todas as etapas estarem concluídas, a publicação será liberada. Vá até a opção "Teste Interno" dentro do menu lateral "Teste". Você encontrará uma lista de versões que você criou. É possível promover essa versão para produção clicando em "Promover versão" > "Produção"
 
-<img width="100%" src="./img/Imagem33.png">
+<!-- Após todas as etapas estarem concluídas, a publicação será liberada, sendo necessário aguardar 14 dias com 12 pessoas testando o app diariamente. -->
+
+<img width="100%" src="./img/Imagem40.png">
+
+Será apresentado uma tela como essa, uma cópia da sua versão de teste, mas agora para produlção. Antes de publicar, é necessário informar todos os paises que você pretende que seu aplicativo esteja disponivel, portanto é necessário que você clique no menu lateral esquerdo na opção de "Produção" e selecione a opção "Países / regiões"
+
+<img width="100%" src="./img/Imagem41.png">
+
+Clique em "Adicionar países / regiões"
+
+<img width="100%" src="./img/Imagem42.png">
+
+
+Selecione os países e regiões que deseja (é possível selecionar todos) e clique em Salvar.
+
+<img width="100%" src="./img/Imagem43.png">
+
+Após salvar, será possível ir para a tela de "Visão geral da publicação", onde é mostrado as mudanças feitas no seu aplicativo e a opção de enviar para a Play Store revisar, depois da revisão, o seu aplicativo estará disponível na Play Store.
+
+<img width="100%" src="./img/Imagem44.png">
+<img width="100%" src="./img/Imagem45.png">
+
+Após enviar, a Play Store irá fazer uma validação rapida de alguns minutos, verificando se falta alguma informação
+
+<img width="100%" src="./img/Imagem46.png">
+
+Por fim, basta aguardar a aprovação da Play Store, que demora em média um dia. Se a publicação gerenciada estrriver desativada, o aplicativo será publicado assim que for aprovado. Se tiver ativo, você precisará subir manualmente após a aprovação
+
+<img width="100%" src="./img/Imagem47.png">
