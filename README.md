@@ -1,10 +1,11 @@
 # 📖 Manual de como publicar na Google Play Console
 Documentação criada para os alunos da Fatec Zona Leste publicarem seus aplicativos 
 
-<img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Documentação para a  Apple Store:** https://github.com/JoaoEnrique/publicacao-apple-store
+
 
 ## 🔗 **Links**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> **Google Play Console (onde os apps são gerenciados:)**: https://play.google.com/console/u/0/developers
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Publicação para a  Apple Store:** https://github.com/JoaoEnrique/publicacao-apple-store
 
 ## **Modelos de imagens**
 - Ícone (PNG ou JPEG de até 1 MB e 512 × 512px) - [Modelo no Canva](https://www.canva.com/design/DAGdfTpM8ek/L1qs4LzIVaPMOQKNRFU2nA/edit?utm_content=DAGdfTpM8ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -27,7 +28,7 @@ Mostra todos os aplicativos aos quais você tem acesso:
 
 <img width="100%" src="./img/Imagem1.png?v=1">
 
-Ao selecionar o aplicativo, é apresentado a tela de configuração do app que contém a lista de passos para a publicação na Play Store
+Ao selecionar o aplicativo, é apresentado a tela de configuração do app que contém a lista de passos para a publicação na Play Store. Não é necessário preencher na ordem que é apresentado, caso não seja possível realizar uma etapa nesse momento, é possível pular para outra que não dependa da etapa atual.
 
 <img width="100%" src="./img/Imagem2.png?v=1">
 <br>
@@ -38,7 +39,7 @@ Ao selecionar o aplicativo, é apresentado a tela de configuração do app que c
 - Criar e Publicar uma versão
 
 ## Começar a testar agora
-Os aplicativos devem passar por um teste realizado por você mesmo, com duração de 14 dias e com 12 pessoas. Por isso a primeira fase é adicionar uma lista com o e-mail dos testadores.
+Os aplicativos devem passar por um teste realizado por você mesmo, com duração de 14 dias e com 12 pessoas. Por isso a primeira fase é adicionar uma lista com o e-mail dos testadores, mas não é necessário adicionar a lista nesse momento, podendo seguir para as demais configurações do app.
 
 <img width="100%" src="./img/Imagem3.png?v=1">
 
