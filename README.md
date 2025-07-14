@@ -1,8 +1,6 @@
 # 📖 Manual de como publicar na Google Play Console
 Documentação criada para os alunos da Fatec Zona Leste publicarem seus aplicativos 
 
-
-
 ## **Links**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> **Google Play Console (onde os apps são gerenciados:)**: https://play.google.com/console/u/0/developers
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Publicação para a  Apple Store:** https://github.com/JoaoEnrique/publicacao-apple-store
@@ -60,7 +58,9 @@ Nesta etapa, você deverá fornecer todas as informações necessárias sobre o 
 <img width="100%" src="./img/Imagem6.png?v=1">
 
 ### Política de Privacidade
-Na primeira opção, em 'Política de Privacidade', insira um link válido para a política de privacidade do seu app. A Play Store verifica se o link é acessível e, após algum tempo, também valida se o conteúdo corresponde de fato a uma política de privacidade. Por isso, é importante fornecer um link real e funcional.
+Na primeira opção, em 'Política de Privacidade', insira um link para a política de privacidade do seu app, que é um texto descrevendo como você utiliza as informações do usuário (nome, email, senha etc). A Play Store verifica se o link é acessível e, após algum tempo, também valida se o conteúdo corresponde de fato a uma política de privacidade. Por isso, é importante fornecer um link real e funcional. (Caso não tenha um site, crie um simples e suba em uma hospedagem, como o [GitHub Pages](https://pages.github.com/))
+
+Exemplo de [Política de Privacidade](https://pacoca.net/diretrizes)
 
 <img width="100%" src="./img/Imagem7.png?v=1">
 
@@ -102,21 +102,20 @@ Basta responder às perguntas conforme o conteúdo do seu aplicativo e visualiza
 <img width="100%" src="./img/Imagem15.png?v=1">
 
 ### Segurança dos dados
-Na fase “Segurança dos dados”, você deverá informar quais dados o seu aplicativo coleta dos usuários (como nome, e-mail, nome de usuário, ID, entre outros) e explicar o motivo do uso de cada um deles.
+Na fase “Segurança dos dados”, você deverá informar quais dados obrigatórios o seu aplicativo coleta dos usuários (como nome e e-mail) e dizer se o aplicativo tem um sistema de criação de conta.
 
 <img width="100%" src="./img/Imagem16.png?v=1">
-
-Informe se o aplicativo coleta ou compartilha algum dado obrigatório, como email e senha.
-
 <img width="100%" src="./img/Imagem17.png?v=1">
 
-Se houver dados obrigatórios, é preciso informar se os dados são criptografados por você e quais dados seu aplicativo coleta.
+Se houver dados obrigatórios, é preciso informar se os dados são criptografados.
 
 <img width="100%" src="./img/Imagem18.png?v=1">
 
-Ao marcar pelo menos um dado obrigatório, é preciso também informar um link onde o usuário possa excluir ou solicitar a exclusão da conta. (É possível adicionar o link onde o usuário possa ver seu perfil)
+Você deve informar também se o seu aplicativo aplicativo possui a funcionalidade de criação de conta. Se houver, é necessário adicionar um link onde o usuário possa fazer uma solicitação para a exclusão dos dados, ou para ele mesmo excluir a conta. Essa parte não é validada, portanto é possível adicionar um link para a página de perfil do usuário ou um link para uma página dizendo que essa funcionalidade ainda não existe. (Caso não tenha um site, crie um simples e suba em uma hospedagem, como o [GitHub Pages](https://pages.github.com/))
 
 <img width="100%" src="./img/Imagem19.png?v=1">
+<img width="100%" src="./img/Imagem36.png?v=1">
+
 
 Se o seu aplicativo permite que o usuário exclua apenas determinados dados, você pode fornecer um link com essa funcionalidade. No entanto, essa etapa não é obrigatória. Depois de concluído, a opção “próximo” será liberada.
 
