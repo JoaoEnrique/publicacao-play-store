@@ -11,6 +11,15 @@ Documentação criada para os alunos da Fatec Zona Leste publicarem seus aplicat
 - Recurso Gráfico - banner do aplicativo (PNG ou JPEG de até 15 MB e 1024px × 500px) - [Modelo no Canva](https://www.canva.com/design/DAGL3T90bGo/7ql7RXW6mDOEtkugVoBIEA/edit?utm_content=DAGL3T90bGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Tela do Aplicativo - [Modelo no Canva](https://www.canva.com/design/DAGs0blP70w/CngI6ARr-KGa79a2WDyV9Q/edit?utm_content=DAGs0blP70w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+## Aceitar Convite
+Você receberá um email com o convite para participar da conta de desenvolvedor
+
+<img width="100%" src="./img/Imagem34.png?v=1">
+
+Aceite os termos e clique em "Aceitar Convite", depois você será redirecionado para a tela inicial do [Google Play Console](https://play.google.com/console/u/0/developers)
+
+<img width="100%" src="./img/Imagem35.png?v=1">
+
 ## Tela inicial
 Mostra todos os aplicativos aos quais você tem acesso:
 [Google Play Console](https://play.google.com/console/u/0/developers)
@@ -27,9 +36,6 @@ Ao selecionar o aplicativo, é apresentado a tela de configuração do app que c
 - Começar a testar agora 
 - Configurar o app
 - Criar e Publicar uma versão
-
-Começar a testar agora
-Os aplicativos devem passar por um teste realizado por você mesmo, com duração de 14 dias e com 12 pessoas. Por isso a primeira fase é adicionar uma lista com o e-mail dos testadores.
 
 ## Começar a testar agora
 Os aplicativos devem passar por um teste realizado por você mesmo, com duração de 14 dias e com 12 pessoas. Por isso a primeira fase é adicionar uma lista com o e-mail dos testadores.
