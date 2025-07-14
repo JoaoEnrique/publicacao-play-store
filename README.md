@@ -3,7 +3,7 @@ Documentação criada para os alunos da Fatec Zona Leste publicarem seus aplicat
 
 
 
-## 🔗 **Links**
+## **Links**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> **Google Play Console (onde os apps são gerenciados:)**: https://play.google.com/console/u/0/developers
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Publicação para a  Apple Store:** https://github.com/JoaoEnrique/publicacao-apple-store
 
