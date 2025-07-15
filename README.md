@@ -37,9 +37,9 @@ Ao selecionar o aplicativo, é apresentado a tela de configuração do app que c
 - Criar e Publicar uma versão
 
 ## Começar a testar agora
-Os aplicativos podem passar por um "teste interno", que é uma versão do seu aplicativo que apenas e-emails pré-cadastrados podem baixar. Essa fase não é obrigatória 
+A primeira fase é  "Selecionar testadores", pois o aplicativo pode ter uma versão de "Teste interno", onde apenas e-mails que você selecionou podem baixar seu aplicativo antes que ele seja aprovado pela Play Store. Essa fase não é obrigatória. 
 
-<img width="100%" src="./img/Imagem3.png?v=1">
+<img width="100%" src="./img/Imagem3.png?v=2">
 
 ### Criar uma nova versão
 A segunda fase consiste em criar uma nova versão do aplicativo (versão de teste interno para a Play Store aprovar a publicação), contendo o arquivo de build (.aab). Nessa etapa, é necessário definir o nome da versão (visível apenas internamente, para fins de controle), adicionar as notas da versão (uma descriçãlo do que essa versão do seu aplicativo faz e que serão exibidas publicamente na Play Store) e, por fim, anexar o arquivo .aab.
