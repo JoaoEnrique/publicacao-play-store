@@ -37,21 +37,21 @@ Ao selecionar o aplicativo, é apresentado a tela de configuração do app que c
 - Criar e Publicar uma versão
 
 ## Começar a testar agora
-Os aplicativos devem passar por um "teste interno" realizado por você mesmo, com duração de 14 dias e com 12 pessoas. Por isso a primeira fase é adicionar uma lista com o e-mail dos testadores, mas não é necessário adicionar a lista nesse momento, podendo seguir para as demais configurações do app.
+Os aplicativos podem passar por um "teste interno", que é uma versão do seu aplicativo que apenas e-emails pré-cadastrados podem baixar. Essa fase não é obrigatória 
 
 <img width="100%" src="./img/Imagem3.png?v=1">
 
 ### Criar uma nova versão
-A segunda fase consiste em criar uma nova versão do aplicativo (versão de teste interno para a Play Store aprovar a publicação), contendo o arquivo de build (.aab). Nessa etapa, é necessário definir o nome da versão (visível apenas internamente, para fins de controle), adicionar as notas da versão (que serão exibidas publicamente na Play Store) e, por fim, anexar o arquivo .aab.
+A segunda fase consiste em criar uma nova versão do aplicativo (versão de teste interno para a Play Store aprovar a publicação), contendo o arquivo de build (.aab). Nessa etapa, é necessário definir o nome da versão (visível apenas internamente, para fins de controle), adicionar as notas da versão (uma descriçãlo do que essa versão do seu aplicativo faz e que serão exibidas publicamente na Play Store) e, por fim, anexar o arquivo .aab.
 
 <img width="100%" src="./img/Imagem37.png?v1">
 <img width="100%" src="./img/Imagem38.png?v1">
 
 <img width="100%" src="./img/Imagem4.png?v1">
 
-Após adicionar a lista de e-mails dos testadores, compartilhe o link para que eles possam baixar o aplicativo
+Caso queira que alguém possa baixar o aplicativo antes da aprovação da Play Store, crie uma lista com o nome do seu aplicativo e adicione todos os e-emails de quem quer permitir que baixe antecipadamente, caso não queira essa opção, selecione a lista "Fatec" para cumprir essa etapa. Após adicionar a lista de e-mails dos testadores, compartilhe o link para que eles possam baixar o aplicativo antes dele ser lançado
 
-<img width="100%" src="./img/Imagem39.png?v1">
+<img width="100%" src="./img/Imagem39.png?v=2">
 
 ### Visualizar e confirmar a versão
 Por fim, basta avançar para visualizar um resumo geral e possíveis alertas de erro, caso existam. Para facilitar a visualização, expanda as mensagens e corrija os pontos indicados, se necessário.
@@ -204,6 +204,9 @@ Selecione os países e regiões que deseja (é possível selecionar todos) e cli
 Após salvar, será possível ir para a tela de "Visão geral da publicação", onde é mostrado as mudanças feitas no seu aplicativo e a opção de enviar para a Play Store revisar, depois da revisão, o seu aplicativo estará disponível na Play Store.
 
 <img width="100%" src="./img/Imagem44.png">
+
+Sempre que você alterar qualquer informação no seu aplicativo, será necessário abrir a tela "Visão geral da publicação" e enviar as mudanças para a revisão.
+
 <img width="100%" src="./img/Imagem45.png">
 
 Após enviar, a Play Store irá fazer uma validação rapida de alguns minutos, verificando se falta alguma informação
